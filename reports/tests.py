@@ -21,3 +21,4 @@ Microservices To be the best, you must be able to handle the worst. Edge Computi
 IoT Frontend Security Virtual Machines Serverless
 Success is how high you bounce when you hit bottom. Logging Security Automation If you can dream it, you can do it. Content Delivery Network Work hard in silence, let your success be your noise. Parallel Processing JWT Docker To be the best, you must be able to handle the worst. Code Review The only way to do great work is to love what you do.
 Replica Set Serverless Edge Computing The only way to do great work is to love what you do. Deployment A/B Testing Predictive Analytics Simplicity is the ultimate sophistication. JWT Success is not in what you have, but who you are. Big Data Innovation distinguishes between a leader and a follower. Load Testing Cloud Functions React
+Artificial Intelligence Database WebSockets Neural Networks Frontend Load Balancing Kafka Message Queue OAuth Container Orchestration
