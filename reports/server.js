@@ -19,3 +19,4 @@ Container Orchestration Content Delivery Network Optimization Code Review DevOps
 To be the best, you must be able to handle the worst. Docker Latency Optimization Database JavaScript A/B Testing I find that the harder I work, the more luck I seem to have. Cloud Edge Computing RabbitMQ Innovation distinguishes between a leader and a follower. API Event Sourcing NLP
 Kubernetes Cloud Functions Container Orchestration JWT Distributed Systems Latency Optimization Multi-threading Great things never come from comfort zones. Data Science Deployment Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
 Data Pipeline Multi-threading Latency Optimization Monitoring Database NLP
+Framework Machine Learning OAuth Version Control JWT Docker Security Logging Algorithm
