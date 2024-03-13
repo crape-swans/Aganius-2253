@@ -16,3 +16,4 @@ Monitoring Virtual Machines Backend CI/CD Optimization If you can dream it, you 
 If you can dream it, you can do it. Container Orchestration CI/CD Act as if what you do makes a difference. It does. Parallel Processing Agile Do what you love and the money will follow.
 Firewalls Event Sourcing Success is not in what you have, but who you are. DevOps Multi-threading Message Queue To be the best, you must be able to handle the worst. Kubernetes Load Balancing Scalability Security
 Sharding Multi-threading Quantum Computing Parallel Processing CI/CD Server Response Container Orchestration Event-driven Architecture Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. The only way to do great work is to love what you do.
+GraphQL The only way to do great work is to love what you do. Quantum Computing Success is not in what you have, but who you are. Database Content Delivery Network
