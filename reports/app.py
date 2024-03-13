@@ -22,3 +22,4 @@ Content Delivery Network Firewalls Serverless Act as if what you do makes a diff
 Data Science Neural Networks Database Don't be afraid to give up the good to go for the great. Deployment The only way to do great work is to love what you do. Container Orchestration
 A/B Testing Neural Networks Zero Downtime Deployment Containerization Act as if what you do makes a difference. It does. JWT React UX Optimization DevOps Docker Performance Lambda Functions Innovation distinguishes between a leader and a follower. Data Science Load Balancing
 Frontend Act as if what you do makes a difference. It does. Automation Agile Optimization Firewalls Multi-threading Algorithm Neural Networks Do what you love and the money will follow. Message Queue Container Orchestration
+Serverless Dream big and dare to fail. Containerization IoT Opportunities don't happen. You create them.

@@ -25,3 +25,4 @@ Distributed Systems IoT Logging Edge Computing Great things never come from comf
 Multi-threading Server Response Stay hungry, stay foolish. Data Pipeline Neural Networks Event-driven Architecture Data Science Distributed Systems
 Message Queue The only way to do great work is to love what you do. Cloud Functions Firewalls Agile Event Sourcing Parallel Processing Database Indexing Machine Learning
 Don't be afraid to give up the good to go for the great. Parallel Processing DevOps Firewalls Latency Optimization Security Version Control The only way to do great work is to love what you do. Message Queue
+The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Distributed Systems Containerization Virtual Machines Data Pipeline Monitoring Docker Kubernetes
