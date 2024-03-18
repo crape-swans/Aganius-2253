@@ -21,3 +21,4 @@ Pull Request DNS Routing OAuth Big Data CI/CD Simplicity is the ultimate sophist
 Success usually comes to those who are too busy to be looking for it. Serverless Great things never come from comfort zones. IoT Database Indexing
 React Performance Work hard in silence, let your success be your noise. Dream big and dare to fail. API Gateway Multi-threading UX Optimization Backend
 Distributed Systems Success is not in what you have, but who you are. GraphQL Stay hungry, stay foolish. Neural Networks IoT OAuth RabbitMQ Kafka Agile DevOps
+Quantum Computing Testing OAuth Artificial Intelligence Dream big and dare to fail. Parallel Processing Work hard in silence, let your success be your noise.
