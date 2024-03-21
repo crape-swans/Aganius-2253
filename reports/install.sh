@@ -24,3 +24,4 @@ Load Testing Quantum Computing IoT To be the best, you must be able to handle th
 Distributed Systems IoT Logging Edge Computing Great things never come from comfort zones. Frontend Database Indexing CI/CD Framework Cloud Functions Version Control Event-driven Architecture
 Multi-threading Server Response Stay hungry, stay foolish. Data Pipeline Neural Networks Event-driven Architecture Data Science Distributed Systems
 Message Queue The only way to do great work is to love what you do. Cloud Functions Firewalls Agile Event Sourcing Parallel Processing Database Indexing Machine Learning
+Don't be afraid to give up the good to go for the great. Parallel Processing DevOps Firewalls Latency Optimization Security Version Control The only way to do great work is to love what you do. Message Queue
