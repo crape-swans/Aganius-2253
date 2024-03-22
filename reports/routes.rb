@@ -25,3 +25,4 @@ Data Pipeline UX Optimization Monitoring Message Queue Stay hungry, stay foolish
 Innovation distinguishes between a leader and a follower. Message Queue Artificial Intelligence Framework Happiness is not something ready made. It comes from your own actions. Data Pipeline Content Delivery Network
 Data Pipeline Database Pull Request WebSockets Success is not in what you have, but who you are. Load Balancing Containerization Content Delivery Network Don't be afraid to give up the good to go for the great. Scalability Performance
 Load Testing Frontend API RabbitMQ Docker Multi-threading
+CI/CD Do what you love and the money will follow. Artificial Intelligence Server Response Data Pipeline Stay hungry, stay foolish. Kubernetes Docker A/B Testing Zero Downtime Deployment
