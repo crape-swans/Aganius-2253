@@ -26,3 +26,4 @@ Firewalls Automation Success doesn’t just find you. You have to go out and get i
 OAuth Database Pull Request WebSockets Edge Computing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Neural Networks Load Testing Zero Downtime Deployment Event Sourcing Machine Learning
 Pull Request Data Pipeline Artificial Intelligence Zero Downtime Deployment API Gateway Optimization Version Control
 Kafka Framework Multi-threading Pull Request NLP Backend Quantum Computing Stay hungry, stay foolish. If you can dream it, you can do it. Big Data
+Database Indexing If you can dream it, you can do it. Event-driven Architecture Parallel Processing Zero Downtime Deployment Server Response Security Deployment Innovation distinguishes between a leader and a follower. API
