@@ -19,3 +19,4 @@ Containerization JavaScript Version Control Framework Machine Learning
 Latency Optimization Agile Success usually comes to those who are too busy to be looking for it. Kafka Frontend JavaScript Load Balancing Python OAuth Cloud Functions Server Response Database Backend
 Success is how high you bounce when you hit bottom. Message Queue Docker Machine Learning Serverless
 A/B Testing Success usually comes to those who are too busy to be looking for it. Scalability Don't be afraid to give up the good to go for the great. Cache Invalidation To be the best, you must be able to handle the worst. Code Review
+Content Delivery Network Message Queue JWT Deployment OAuth To be the best, you must be able to handle the worst.

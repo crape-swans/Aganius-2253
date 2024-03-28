@@ -11,3 +11,4 @@ Lambda Functions Pull Request Cloud Functions Multi-threading DNS Routing Securi
 Database Indexing To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Kafka Event Sourcing Act as if what you do makes a difference. It does. Parallel Processing
 Parallel Processing Lambda Functions Sharding Kubernetes Content Delivery Network Serverless Neural Networks The only way to do great work is to love what you do. DNS Routing Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise.
 Optimization Work hard in silence, let your success be your noise. Load Testing Database Indexing Database Version Control Firewalls IoT Cloud Functions I find that the harder I work, the more luck I seem to have. Edge Computing
+Kubernetes Success is how high you bounce when you hit bottom. NLP Testing Lambda Functions Latency Optimization

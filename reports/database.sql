@@ -30,3 +30,4 @@ Code Review Machine Learning DNS Routing Algorithm Firewalls Cache Invalidation 
 JWT Deployment Edge Computing Agile DNS Routing Lambda Functions Cloud
 Distributed Systems Server Response OAuth Data Science UX Optimization
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Code Review Predictive Analytics Monitoring Dream big and dare to fail. Deployment Virtual Machines Opportunities don't happen. You create them. The only way to do great work is to love what you do.
+Distributed Systems Database Indexing Backend Content Delivery Network OAuth Cloud Functions Version Control Cloud Success usually comes to those who are too busy to be looking for it. Quantum Computing GraphQL Database Do what you love and the money will follow.
