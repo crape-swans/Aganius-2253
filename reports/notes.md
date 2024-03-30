@@ -19,3 +19,4 @@ OAuth API Message Queue Opportunities don't happen. You create them. Deployment 
 Lambda Functions Logging Big Data Scalability Stay hungry, stay foolish.
 Pull Request DNS Routing OAuth Big Data CI/CD Simplicity is the ultimate sophistication. Deployment Cloud Functions Cache Invalidation
 Success usually comes to those who are too busy to be looking for it. Serverless Great things never come from comfort zones. IoT Database Indexing
+React Performance Work hard in silence, let your success be your noise. Dream big and dare to fail. API Gateway Multi-threading UX Optimization Backend
