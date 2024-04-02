@@ -31,3 +31,4 @@ React Success is how high you bounce when you hit bottom. Big Data Docker Machin
 Edge Computing Predictive Analytics WebSockets Microservices Content Delivery Network Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Blockchain Logging
 Multi-threading Happiness is not something ready made. It comes from your own actions. Cache Invalidation Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. WebSockets
 Cloud Frontend Data Science Performance Cache Invalidation Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Edge Computing A/B Testing Quantum Computing The only way to do great work is to love what you do. Serverless Predictive Analytics
+Python Serverless Message Queue Monitoring Blockchain

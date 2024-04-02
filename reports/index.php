@@ -27,3 +27,4 @@ GraphQL API Gateway To be the best, you must be able to handle the worst. I find
 Great things never come from comfort zones. Backend WebSockets React Algorithm Database Indexing Event Sourcing Stay hungry, stay foolish. Big Data Quantum Computing
 JWT Parallel Processing Difficult roads often lead to beautiful destinations. Latency Optimization Optimization Replica Set NLP A/B Testing
 DevOps Machine Learning Parallel Processing Do what you love and the money will follow. Kafka Container Orchestration
+Latency Optimization Dream big and dare to fail. Data Science Event Sourcing Testing Success doesn’t just find you. You have to go out and get it. JavaScript Difficult roads often lead to beautiful destinations. Event-driven Architecture
