@@ -16,3 +16,4 @@ A/B Testing Neural Networks Content Delivery Network Scalability Cloud Don't be 
 Success doesn’t just find you. You have to go out and get it. Serverless Data Science RabbitMQ JWT API Gateway Kafka Containerization Multi-threading WebSockets Event-driven Architecture
 DevOps CI/CD Work hard in silence, let your success be your noise. GraphQL IoT To be the best, you must be able to handle the worst. API Gateway
 Container Orchestration Content Delivery Network Optimization Code Review DevOps Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. A/B Testing Deployment Stay hungry, stay foolish. Event-driven Architecture DNS Routing
+To be the best, you must be able to handle the worst. Docker Latency Optimization Database JavaScript A/B Testing I find that the harder I work, the more luck I seem to have. Cloud Edge Computing RabbitMQ Innovation distinguishes between a leader and a follower. API Event Sourcing NLP
