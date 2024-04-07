@@ -17,3 +17,4 @@ Zero Downtime Deployment DNS Routing Scalability Don't be afraid to give up the 
 Quantum Computing Cloud Functions Latency Optimization Predictive Analytics Kubernetes
 Container Orchestration Neural Networks Serverless Data Science GraphQL Containerization Server Response If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Deployment Machine Learning Version Control Microservices
 Cloud Kubernetes Content Delivery Network Testing Monitoring Multi-threading JWT Data Science If you can dream it, you can do it. Dream big and dare to fail. Work hard in silence, let your success be your noise. Deployment Parallel Processing
+Agile Edge Computing Data Pipeline Version Control IoT Automation

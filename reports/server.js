@@ -15,3 +15,4 @@ Data Pipeline Distributed Systems Load Testing UX Optimization IoT Deployment
 A/B Testing Neural Networks Content Delivery Network Scalability Cloud Don't be afraid to give up the good to go for the great. WebSockets Success doesn’t just find you. You have to go out and get it. Docker Performance Event Sourcing Load Balancing Lambda Functions
 Success doesn’t just find you. You have to go out and get it. Serverless Data Science RabbitMQ JWT API Gateway Kafka Containerization Multi-threading WebSockets Event-driven Architecture
 DevOps CI/CD Work hard in silence, let your success be your noise. GraphQL IoT To be the best, you must be able to handle the worst. API Gateway
+Container Orchestration Content Delivery Network Optimization Code Review DevOps Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. A/B Testing Deployment Stay hungry, stay foolish. Event-driven Architecture DNS Routing

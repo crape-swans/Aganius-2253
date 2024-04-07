@@ -21,3 +21,4 @@ Cache Invalidation Cloud Load Testing Data Pipeline Pull Request Success doesn’t
 Big Data Scalability Framework Difficult roads often lead to beautiful destinations. Predictive Analytics Testing Stay hungry, stay foolish. API Do what you love and the money will follow.
 Database Indexing DNS Routing Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Logging Edge Computing
 Load Testing Quantum Computing IoT To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. RabbitMQ Event-driven Architecture Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
+Distributed Systems IoT Logging Edge Computing Great things never come from comfort zones. Frontend Database Indexing CI/CD Framework Cloud Functions Version Control Event-driven Architecture
