@@ -17,3 +17,4 @@ Cache Invalidation Backend Automation Multi-threading Work hard in silence, let 
 Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Backend Firewalls A/B Testing Content Delivery Network Version Control
 OAuth API Message Queue Opportunities don't happen. You create them. Deployment Scalability NLP Frontend Code Review I find that the harder I work, the more luck I seem to have. Neural Networks Firewalls React
 Lambda Functions Logging Big Data Scalability Stay hungry, stay foolish.
+Pull Request DNS Routing OAuth Big Data CI/CD Simplicity is the ultimate sophistication. Deployment Cloud Functions Cache Invalidation
