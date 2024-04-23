@@ -16,3 +16,4 @@ Quantum Computing Dream big and dare to fail. Act as if what you do makes a diff
 Success is how high you bounce when you hit bottom. Lambda Functions Kubernetes Machine Learning Monitoring Content Delivery Network OAuth
 Database Happiness is not something ready made. It comes from your own actions. Microservices Neural Networks If you can dream it, you can do it. JWT Agile Stay hungry, stay foolish. Monitoring Optimization API Gateway
 Containerization JavaScript Version Control Framework Machine Learning
+Latency Optimization Agile Success usually comes to those who are too busy to be looking for it. Kafka Frontend JavaScript Load Balancing Python OAuth Cloud Functions Server Response Database Backend
