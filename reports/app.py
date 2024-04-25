@@ -19,3 +19,4 @@ Difficult roads often lead to beautiful destinations. Database Indexing Logging 
 Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Optimization UX Optimization Machine Learning
 Machine Learning Load Testing Replica Set Code Review Data Science Cloud Database Kubernetes Database Indexing Event-driven Architecture Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Quantum Computing Distributed Systems Serverless
 Content Delivery Network Firewalls Serverless Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Version Control Replica Set Message Queue
+Data Science Neural Networks Database Don't be afraid to give up the good to go for the great. Deployment The only way to do great work is to love what you do. Container Orchestration
