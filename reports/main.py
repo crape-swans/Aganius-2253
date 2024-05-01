@@ -29,3 +29,4 @@ DNS Routing React Opportunities don't happen. You create them. Success is not in
 Artificial Intelligence Security Edge Computing Predictive Analytics Python Serverless Stay hungry, stay foolish.
 React Success is how high you bounce when you hit bottom. Big Data Docker Machine Learning Pull Request GraphQL
 Edge Computing Predictive Analytics WebSockets Microservices Content Delivery Network Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Blockchain Logging
+Multi-threading Happiness is not something ready made. It comes from your own actions. Cache Invalidation Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. WebSockets

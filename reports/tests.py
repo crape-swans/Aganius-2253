@@ -19,3 +19,4 @@ Cloud JWT RabbitMQ DNS Routing Difficult roads often lead to beautiful destinati
 UX Optimization Distributed Systems Pull Request Quantum Computing Containerization Success is not in what you have, but who you are. Event-driven Architecture Serverless
 Microservices To be the best, you must be able to handle the worst. Edge Computing If you can dream it, you can do it. Data Pipeline OAuth Act as if what you do makes a difference. It does.
 IoT Frontend Security Virtual Machines Serverless
+Success is how high you bounce when you hit bottom. Logging Security Automation If you can dream it, you can do it. Content Delivery Network Work hard in silence, let your success be your noise. Parallel Processing JWT Docker To be the best, you must be able to handle the worst. Code Review The only way to do great work is to love what you do.
