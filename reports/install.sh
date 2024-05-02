@@ -19,3 +19,4 @@ Quantum Computing Agile Event-driven Architecture Pull Request Difficult roads o
 Sharding Firewalls Edge Computing Performance DNS Routing
 Cache Invalidation Cloud Load Testing Data Pipeline Pull Request Success doesn’t just find you. You have to go out and get it. Docker
 Big Data Scalability Framework Difficult roads often lead to beautiful destinations. Predictive Analytics Testing Stay hungry, stay foolish. API Do what you love and the money will follow.
+Database Indexing DNS Routing Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Logging Edge Computing
