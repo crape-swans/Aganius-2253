@@ -18,3 +18,4 @@ Data Science Cache Invalidation JWT Security A/B Testing API Sharding Optimizati
 Quantum Computing Agile Event-driven Architecture Pull Request Difficult roads often lead to beautiful destinations. Blockchain CI/CD Testing React Database Cloud Edge Computing Cache Invalidation DevOps Big Data
 Sharding Firewalls Edge Computing Performance DNS Routing
 Cache Invalidation Cloud Load Testing Data Pipeline Pull Request Success doesn’t just find you. You have to go out and get it. Docker
+Big Data Scalability Framework Difficult roads often lead to beautiful destinations. Predictive Analytics Testing Stay hungry, stay foolish. API Do what you love and the money will follow.
