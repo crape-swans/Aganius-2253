@@ -28,3 +28,4 @@ Deployment To be the best, you must be able to handle the worst. React Multi-thr
 DNS Routing React Opportunities don't happen. You create them. Success is not in what you have, but who you are. Blockchain Happiness is not something ready made. It comes from your own actions. Security Quantum Computing Firewalls Python
 Artificial Intelligence Security Edge Computing Predictive Analytics Python Serverless Stay hungry, stay foolish.
 React Success is how high you bounce when you hit bottom. Big Data Docker Machine Learning Pull Request GraphQL
+Edge Computing Predictive Analytics WebSockets Microservices Content Delivery Network Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Blockchain Logging

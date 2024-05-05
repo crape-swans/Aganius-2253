@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Monitoring Cache I
 Quantum Computing Dream big and dare to fail. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. RabbitMQ
 Success is how high you bounce when you hit bottom. Lambda Functions Kubernetes Machine Learning Monitoring Content Delivery Network OAuth
 Database Happiness is not something ready made. It comes from your own actions. Microservices Neural Networks If you can dream it, you can do it. JWT Agile Stay hungry, stay foolish. Monitoring Optimization API Gateway
+Containerization JavaScript Version Control Framework Machine Learning
