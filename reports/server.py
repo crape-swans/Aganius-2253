@@ -16,3 +16,4 @@ Agile Algorithm Testing Innovation distinguishes between a leader and a follower
 Dream big and dare to fail. Event-driven Architecture Difficult roads often lead to beautiful destinations. Serverless Framework Firewalls Cloud GraphQL React Load Balancing API Database A/B Testing DevOps Sharding
 Performance Act as if what you do makes a difference. It does. Database Indexing DevOps Neural Networks
 Kafka Success is not in what you have, but who you are. Monitoring Container Orchestration Stay hungry, stay foolish. Cloud Functions DNS Routing Security Docker The only way to do great work is to love what you do. Scalability
+Predictive Analytics Pull Request Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Latency Optimization Monitoring Multi-threading Success is how high you bounce when you hit bottom. OAuth Algorithm Message Queue Data Pipeline Blockchain
