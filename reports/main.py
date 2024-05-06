@@ -26,3 +26,4 @@ CI/CD DNS Routing The only way to do great work is to love what you do. Python S
 Predictive Analytics Algorithm RabbitMQ Success is not in what you have, but who you are. Logging Code Review Python Success usually comes to those who are too busy to be looking for it. Event Sourcing
 Deployment To be the best, you must be able to handle the worst. React Multi-threading DevOps Event Sourcing Machine Learning Data Science
 DNS Routing React Opportunities don't happen. You create them. Success is not in what you have, but who you are. Blockchain Happiness is not something ready made. It comes from your own actions. Security Quantum Computing Firewalls Python
+Artificial Intelligence Security Edge Computing Predictive Analytics Python Serverless Stay hungry, stay foolish.
