@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Scalability Blockchain Testing Edge Computing NLP Rep
 Database Distributed Systems Firewalls Replica Set Logging Security Testing
 Data Pipeline Distributed Systems Load Testing UX Optimization IoT Deployment
 A/B Testing Neural Networks Content Delivery Network Scalability Cloud Don't be afraid to give up the good to go for the great. WebSockets Success doesn’t just find you. You have to go out and get it. Docker Performance Event Sourcing Load Balancing Lambda Functions
+Success doesn’t just find you. You have to go out and get it. Serverless Data Science RabbitMQ JWT API Gateway Kafka Containerization Multi-threading WebSockets Event-driven Architecture

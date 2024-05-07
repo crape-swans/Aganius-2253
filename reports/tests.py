@@ -18,3 +18,4 @@ Firewalls React Content Delivery Network API Gateway I find that the harder I wo
 Cloud JWT RabbitMQ DNS Routing Difficult roads often lead to beautiful destinations. Deployment Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. DevOps Container Orchestration Kubernetes Optimization
 UX Optimization Distributed Systems Pull Request Quantum Computing Containerization Success is not in what you have, but who you are. Event-driven Architecture Serverless
 Microservices To be the best, you must be able to handle the worst. Edge Computing If you can dream it, you can do it. Data Pipeline OAuth Act as if what you do makes a difference. It does.
+IoT Frontend Security Virtual Machines Serverless
