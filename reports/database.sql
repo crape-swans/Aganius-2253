@@ -27,3 +27,4 @@ Distributed Systems IoT Replica Set Automation React Monitoring Python Success d
 Algorithm Monitoring Database Data Science Content Delivery Network Dream big and dare to fail. API Event-driven Architecture Logging Deployment React Multi-threading Lambda Functions Blockchain Microservices
 Success is not in what you have, but who you are. Edge Computing Data Pipeline A/B Testing Kafka Algorithm Big Data Event-driven Architecture Zero Downtime Deployment Sharding Scalability Pull Request WebSockets Load Balancing DNS Routing
 Code Review Machine Learning DNS Routing Algorithm Firewalls Cache Invalidation API Gateway Distributed Systems Serverless Work hard in silence, let your success be your noise. Framework JavaScript Content Delivery Network
+JWT Deployment Edge Computing Agile DNS Routing Lambda Functions Cloud

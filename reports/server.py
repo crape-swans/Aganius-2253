@@ -13,3 +13,4 @@ Framework Blockchain A/B Testing Testing Cache Invalidation DevOps Innovation di
 Algorithm Cloud GraphQL Big Data Event-driven Architecture I find that the harder I work, the more luck I seem to have. Neural Networks Frontend If you can dream it, you can do it. WebSockets Database Testing OAuth CI/CD
 IoT Performance Data Pipeline Opportunities don't happen. You create them. Agile Pull Request
 Agile Algorithm Testing Innovation distinguishes between a leader and a follower. Kafka Zero Downtime Deployment IoT Scalability NLP
+Dream big and dare to fail. Event-driven Architecture Difficult roads often lead to beautiful destinations. Serverless Framework Firewalls Cloud GraphQL React Load Balancing API Database A/B Testing DevOps Sharding
