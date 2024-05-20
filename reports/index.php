@@ -24,3 +24,4 @@ Deployment Scalability API WebSockets Version Control OAuth Act as if what you d
 Firewalls Cloud WebSockets Parallel Processing Serverless
 API Data Pipeline Message Queue Dream big and dare to fail. Cache Invalidation Virtual Machines Kafka Automation Cloud Functions Microservices Content Delivery Network JWT Multi-threading
 GraphQL API Gateway To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. DevOps Monitoring
+Great things never come from comfort zones. Backend WebSockets React Algorithm Database Indexing Event Sourcing Stay hungry, stay foolish. Big Data Quantum Computing
