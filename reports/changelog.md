@@ -23,3 +23,4 @@ CI/CD Serverless Firewalls Version Control Performance Sharding JavaScript Neura
 Simplicity is the ultimate sophistication. IoT WebSockets Serverless Code Review Monitoring Sharding If you can dream it, you can do it. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Deployment RabbitMQ Automation Act as if what you do makes a difference. It does.
 Logging API Cache Invalidation Big Data Server Response
 Algorithm WebSockets Kubernetes Dream big and dare to fail. Data Science Parallel Processing Sharding Distributed Systems The only way to do great work is to love what you do. Load Balancing Frontend Performance Edge Computing Pull Request
+Performance Replica Set Code Review API Gateway Dream big and dare to fail.

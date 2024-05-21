@@ -12,3 +12,4 @@ Predictive Analytics Innovation distinguishes between a leader and a follower. I
 Load Testing Machine Learning Version Control API Gateway Distributed Systems Event Sourcing Logging Happiness is not something ready made. It comes from your own actions. Containerization Edge Computing JWT Automation
 Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Version Control Data Science Load Testing Success is not in what you have, but who you are. RabbitMQ Replica Set
 Success doesn’t just find you. You have to go out and get it. Monitoring Cache Invalidation Difficult roads often lead to beautiful destinations. Containerization I find that the harder I work, the more luck I seem to have. Cloud
+Quantum Computing Dream big and dare to fail. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. RabbitMQ
