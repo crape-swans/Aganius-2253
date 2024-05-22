@@ -17,3 +17,4 @@ Dream big and dare to fail. UX Optimization Logging Testing Content Delivery Net
 Data Science Cache Invalidation JWT Security A/B Testing API Sharding Optimization Machine Learning Virtual Machines To be the best, you must be able to handle the worst. Cloud JavaScript Lambda Functions Event-driven Architecture
 Quantum Computing Agile Event-driven Architecture Pull Request Difficult roads often lead to beautiful destinations. Blockchain CI/CD Testing React Database Cloud Edge Computing Cache Invalidation DevOps Big Data
 Sharding Firewalls Edge Computing Performance DNS Routing
+Cache Invalidation Cloud Load Testing Data Pipeline Pull Request Success doesn’t just find you. You have to go out and get it. Docker
