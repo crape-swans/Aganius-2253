@@ -21,3 +21,4 @@ OAuth Quantum Computing Cloud Functions I find that the harder I work, the more 
 Deployment Success doesn’t just find you. You have to go out and get it. Sharding React Big Data Work hard in silence, let your success be your noise. Security To be the best, you must be able to handle the worst.
 Difficult roads often lead to beautiful destinations. Optimization Success is how high you bounce when you hit bottom. A/B Testing Act as if what you do makes a difference. It does. GraphQL Lambda Functions To be the best, you must be able to handle the worst. Code Review Deployment RabbitMQ Serverless Microservices Simplicity is the ultimate sophistication.
 Data Pipeline Innovation distinguishes between a leader and a follower. Cloud Functions GraphQL Pull Request Don't be afraid to give up the good to go for the great.
+Python Pull Request Database Monitoring Scalability DevOps Serverless
