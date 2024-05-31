@@ -11,3 +11,4 @@ Opportunities don't happen. You create them. Performance Container Orchestration
 Artificial Intelligence IoT Microservices WebSockets I find that the harder I work, the more luck I seem to have. Distributed Systems Security Success usually comes to those who are too busy to be looking for it. Data Science
 Stay hungry, stay foolish. Scalability Blockchain Testing Edge Computing NLP Replica Set Firewalls
 Database Distributed Systems Firewalls Replica Set Logging Security Testing
+Data Pipeline Distributed Systems Load Testing UX Optimization IoT Deployment
