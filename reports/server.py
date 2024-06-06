@@ -12,3 +12,4 @@ Automation Dream big and dare to fail. Success usually comes to those who are to
 Framework Blockchain A/B Testing Testing Cache Invalidation DevOps Innovation distinguishes between a leader and a follower. Backend Code Review Server Response Content Delivery Network Act as if what you do makes a difference. It does. Docker Event Sourcing Data Science
 Algorithm Cloud GraphQL Big Data Event-driven Architecture I find that the harder I work, the more luck I seem to have. Neural Networks Frontend If you can dream it, you can do it. WebSockets Database Testing OAuth CI/CD
 IoT Performance Data Pipeline Opportunities don't happen. You create them. Agile Pull Request
+Agile Algorithm Testing Innovation distinguishes between a leader and a follower. Kafka Zero Downtime Deployment IoT Scalability NLP
