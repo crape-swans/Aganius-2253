@@ -23,3 +23,4 @@ Edge Computing Distributed Systems Event-driven Architecture API Gateway If you 
 Success usually comes to those who are too busy to be looking for it. Replica Set Automation Work hard in silence, let your success be your noise. Machine Learning DNS Routing Blockchain Server Response Framework Sharding The only way to do great work is to love what you do.
 I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. DevOps Container Orchestration Database Success is how high you bounce when you hit bottom. Firewalls Neural Networks Deployment Virtual Machines Quantum Computing
 CI/CD DNS Routing The only way to do great work is to love what you do. Python Sharding Predictive Analytics Machine Learning
+Predictive Analytics Algorithm RabbitMQ Success is not in what you have, but who you are. Logging Code Review Python Success usually comes to those who are too busy to be looking for it. Event Sourcing
