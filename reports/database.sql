@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. JavaScript Optimization I find that t
 Stay hungry, stay foolish. Distributed Systems Latency Optimization IoT I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Automation JavaScript
 IoT Kafka Server Response Predictive Analytics Quantum Computing
 Dream big and dare to fail. Act as if what you do makes a difference. It does. API Gateway Performance Kubernetes Algorithm Distributed Systems Quantum Computing If you can dream it, you can do it. Serverless Replica Set Work hard in silence, let your success be your noise. Zero Downtime Deployment
+Distributed Systems IoT Replica Set Automation React Monitoring Python Success doesn’t just find you. You have to go out and get it. Database Indexing CI/CD Event Sourcing Optimization Kubernetes Success is not in what you have, but who you are. Pull Request

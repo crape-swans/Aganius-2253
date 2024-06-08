@@ -21,3 +21,4 @@ Cloud Functions Parallel Processing Message Queue Kafka Lambda Functions CI/CD A
 GraphQL Do what you love and the money will follow. Sharding Automation The only way to do great work is to love what you do. Cloud Functions Frontend Container Orchestration IoT Success is how high you bounce when you hit bottom. Testing Lambda Functions Python React
 CI/CD Serverless Firewalls Version Control Performance Sharding JavaScript Neural Networks Data Pipeline Artificial Intelligence Data Science
 Simplicity is the ultimate sophistication. IoT WebSockets Serverless Code Review Monitoring Sharding If you can dream it, you can do it. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Deployment RabbitMQ Automation Act as if what you do makes a difference. It does.
+Logging API Cache Invalidation Big Data Server Response
