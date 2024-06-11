@@ -22,3 +22,4 @@ WebSockets Blockchain Multi-threading Quantum Computing Cloud Functions JWT Pred
 Don't be afraid to give up the good to go for the great. Artificial Intelligence Edge Computing Difficult roads often lead to beautiful destinations. A/B Testing Act as if what you do makes a difference. It does.
 Deployment Scalability API WebSockets Version Control OAuth Act as if what you do makes a difference. It does. Event Sourcing Opportunities don't happen. You create them. Artificial Intelligence
 Firewalls Cloud WebSockets Parallel Processing Serverless
+API Data Pipeline Message Queue Dream big and dare to fail. Cache Invalidation Virtual Machines Kafka Automation Cloud Functions Microservices Content Delivery Network JWT Multi-threading

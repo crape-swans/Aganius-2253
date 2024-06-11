@@ -16,3 +16,4 @@ DevOps Machine Learning Docker Success is how high you bounce when you hit botto
 Dream big and dare to fail. UX Optimization Logging Testing Content Delivery Network Docker Cloud Cache Invalidation Event-driven Architecture I find that the harder I work, the more luck I seem to have.
 Data Science Cache Invalidation JWT Security A/B Testing API Sharding Optimization Machine Learning Virtual Machines To be the best, you must be able to handle the worst. Cloud JavaScript Lambda Functions Event-driven Architecture
 Quantum Computing Agile Event-driven Architecture Pull Request Difficult roads often lead to beautiful destinations. Blockchain CI/CD Testing React Database Cloud Edge Computing Cache Invalidation DevOps Big Data
+Sharding Firewalls Edge Computing Performance DNS Routing
