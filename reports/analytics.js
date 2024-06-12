@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. Blockchain DNS Routing Rea
 Frontend Success is how high you bounce when you hit bottom. Microservices Big Data GraphQL Message Queue Firewalls To be the best, you must be able to handle the worst. JavaScript Load Balancing
 Replica Set Event Sourcing API Gateway Algorithm Security Frontend Containerization JavaScript RabbitMQ Work hard in silence, let your success be your noise. GraphQL
 Cache Invalidation Lambda Functions NLP Edge Computing JavaScript
+Zero Downtime Deployment DNS Routing Scalability Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Python Server Response Sharding Big Data React Pull Request Kafka GraphQL Data Pipeline
