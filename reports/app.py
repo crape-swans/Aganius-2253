@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. Database Success usually come
 Code Review Cloud Happiness is not something ready made. It comes from your own actions. UX Optimization Success usually comes to those who are too busy to be looking for it. Data Pipeline Lambda Functions Algorithm Database
 Kubernetes Logging Success is how high you bounce when you hit bottom. JavaScript Serverless
 Artificial Intelligence WebSockets To be the best, you must be able to handle the worst. OAuth A/B Testing Event-driven Architecture Cloud
+Difficult roads often lead to beautiful destinations. Database Indexing Logging If you can dream it, you can do it. Cache Invalidation Neural Networks Happiness is not something ready made. It comes from your own actions. UX Optimization Cloud Functions Event Sourcing Success is how high you bounce when you hit bottom. Parallel Processing API Algorithm Success is not in what you have, but who you are.
