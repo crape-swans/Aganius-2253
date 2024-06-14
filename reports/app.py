@@ -14,3 +14,4 @@ Scalability Parallel Processing Big Data Work hard in silence, let your success 
 Act as if what you do makes a difference. It does. Database Success usually comes to those who are too busy to be looking for it. JWT Microservices Artificial Intelligence GraphQL Predictive Analytics Load Balancing
 Code Review Cloud Happiness is not something ready made. It comes from your own actions. UX Optimization Success usually comes to those who are too busy to be looking for it. Data Pipeline Lambda Functions Algorithm Database
 Kubernetes Logging Success is how high you bounce when you hit bottom. JavaScript Serverless
+Artificial Intelligence WebSockets To be the best, you must be able to handle the worst. OAuth A/B Testing Event-driven Architecture Cloud
