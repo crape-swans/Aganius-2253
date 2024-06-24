@@ -20,3 +20,4 @@ Code Review Agile Event Sourcing Load Testing Simplicity is the ultimate sophist
 NLP Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Kafka Machine Learning IoT
 API Great things never come from comfort zones. API Gateway Predictive Analytics CI/CD Stay hungry, stay foolish. Cloud Functions React
 Edge Computing Distributed Systems Event-driven Architecture API Gateway If you can dream it, you can do it. Firewalls JWT Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Testing
+Success usually comes to those who are too busy to be looking for it. Replica Set Automation Work hard in silence, let your success be your noise. Machine Learning DNS Routing Blockchain Server Response Framework Sharding The only way to do great work is to love what you do.
