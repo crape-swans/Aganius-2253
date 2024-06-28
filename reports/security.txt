@@ -14,3 +14,4 @@ Algorithm React OAuth Load Testing Big Data Predictive Analytics
 GraphQL Success is not in what you have, but who you are. API Gateway Version Control Cloud Functions WebSockets OAuth
 Docker Work hard in silence, let your success be your noise. Automation Do what you love and the money will follow. Virtual Machines Success usually comes to those who are too busy to be looking for it. OAuth
 Blockchain Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Neural Networks Content Delivery Network Database Predictive Analytics Automation Logging Deployment Big Data Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it.
+Latency Optimization Version Control A/B Testing NLP Framework The only way to do great work is to love what you do. Python Great things never come from comfort zones. Data Pipeline Load Testing Docker Dream big and dare to fail. API Cache Invalidation
