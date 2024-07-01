@@ -22,3 +22,4 @@ Dream big and dare to fail. Pull Request Server Response Deployment Machine Lear
 Simplicity is the ultimate sophistication. JavaScript Optimization I find that the harder I work, the more luck I seem to have. GraphQL IoT To be the best, you must be able to handle the worst. Containerization DNS Routing Sharding
 Stay hungry, stay foolish. Distributed Systems Latency Optimization IoT I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Automation JavaScript
 IoT Kafka Server Response Predictive Analytics Quantum Computing
+Dream big and dare to fail. Act as if what you do makes a difference. It does. API Gateway Performance Kubernetes Algorithm Distributed Systems Quantum Computing If you can dream it, you can do it. Serverless Replica Set Work hard in silence, let your success be your noise. Zero Downtime Deployment
