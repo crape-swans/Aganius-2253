@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. Predictive Analytic
 Don't be afraid to give up the good to go for the great. Big Data Pull Request Replica Set API Gateway RabbitMQ Algorithm Difficult roads often lead to beautiful destinations.
 Distributed Systems Algorithm Content Delivery Network Python Multi-threading JavaScript Work hard in silence, let your success be your noise. Message Queue Agile Kafka JWT Version Control UX Optimization
 Neural Networks Firewalls WebSockets Load Balancing RabbitMQ Event Sourcing Code Review Framework Kubernetes
+API Gateway Edge Computing Do what you love and the money will follow. Event Sourcing Database If you can dream it, you can do it. Automation
