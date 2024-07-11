@@ -17,3 +17,4 @@ Backend Content Delivery Network Event-driven Architecture Work hard in silence,
 DevOps Database Dream big and dare to fail. Load Balancing Load Testing Cache Invalidation Testing
 Don't be afraid to give up the good to go for the great. Parallel Processing Scalability Agile Quantum Computing To be the best, you must be able to handle the worst. Event Sourcing Data Science
 Event-driven Architecture Version Control Pull Request Microservices Machine Learning The only way to do great work is to love what you do. Cloud Functions Performance Serverless GraphQL Monitoring Server Response
+OAuth Quantum Computing Cloud Functions I find that the harder I work, the more luck I seem to have. React Dream big and dare to fail. Version Control Serverless Replica Set

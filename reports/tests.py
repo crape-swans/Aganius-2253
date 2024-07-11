@@ -16,3 +16,4 @@ Cloud Functions Difficult roads often lead to beautiful destinations. Content De
 Blockchain Optimization Database Indexing React Cache Invalidation
 Firewalls React Content Delivery Network API Gateway I find that the harder I work, the more luck I seem to have. Predictive Analytics Act as if what you do makes a difference. It does. Framework Code Review Containerization Cloud Functions
 Cloud JWT RabbitMQ DNS Routing Difficult roads often lead to beautiful destinations. Deployment Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. DevOps Container Orchestration Kubernetes Optimization
+UX Optimization Distributed Systems Pull Request Quantum Computing Containerization Success is not in what you have, but who you are. Event-driven Architecture Serverless
