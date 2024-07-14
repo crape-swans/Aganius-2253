@@ -10,3 +10,4 @@ Agile Data Science Performance Stay hungry, stay foolish. Act as if what you do 
 DNS Routing Optimization Virtual Machines Parallel Processing Load Testing Artificial Intelligence Message Queue API Deployment
 Pull Request Neural Networks RabbitMQ Cloud Functions Distributed Systems Cloud Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Data Science Server Response Success usually comes to those who are too busy to be looking for it.
 Content Delivery Network Blockchain Difficult roads often lead to beautiful destinations. Python IoT React Server Response Success is not in what you have, but who you are. Database Indexing Docker Optimization Agile Kubernetes Event-driven Architecture
+Sharding Optimization Cloud Predictive Analytics Containerization Replica Set Deployment

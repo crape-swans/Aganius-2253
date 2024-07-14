@@ -16,3 +16,4 @@ Automation Event-driven Architecture Sharding Virtual Machines Pull Request Opti
 React Cache Invalidation Multi-threading Monitoring A/B Testing Artificial Intelligence Backend Latency Optimization Server Response Message Queue Success is not in what you have, but who you are. Blockchain Parallel Processing
 Predictive Analytics Do what you love and the money will follow. Lambda Functions Edge Computing Logging Message Queue Event-driven Architecture Framework Database Cloud Functions
 To be the best, you must be able to handle the worst. Framework Security Cloud Functions Load Balancing Work hard in silence, let your success be your noise. Machine Learning Python
+Kafka React Cloud Functions Parallel Processing API Content Delivery Network Don't be afraid to give up the good to go for the great. Deployment JWT API Gateway
