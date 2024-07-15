@@ -20,3 +20,4 @@ Optimization DevOps Success doesn’t just find you. You have to go out and get it
 Simplicity is the ultimate sophistication. Containerization Frontend Cache Invalidation Container Orchestration API Gateway Dream big and dare to fail. Version Control
 WebSockets Blockchain Multi-threading Quantum Computing Cloud Functions JWT Predictive Analytics Load Testing I find that the harder I work, the more luck I seem to have. Serverless Version Control
 Don't be afraid to give up the good to go for the great. Artificial Intelligence Edge Computing Difficult roads often lead to beautiful destinations. A/B Testing Act as if what you do makes a difference. It does.
+Deployment Scalability API WebSockets Version Control OAuth Act as if what you do makes a difference. It does. Event Sourcing Opportunities don't happen. You create them. Artificial Intelligence
