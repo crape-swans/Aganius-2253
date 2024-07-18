@@ -21,3 +21,4 @@ IoT Don't be afraid to give up the good to go for the great. Work hard in silenc
 Dream big and dare to fail. Pull Request Server Response Deployment Machine Learning RabbitMQ Database Indexing To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom.
 Simplicity is the ultimate sophistication. JavaScript Optimization I find that the harder I work, the more luck I seem to have. GraphQL IoT To be the best, you must be able to handle the worst. Containerization DNS Routing Sharding
 Stay hungry, stay foolish. Distributed Systems Latency Optimization IoT I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Automation JavaScript
+IoT Kafka Server Response Predictive Analytics Quantum Computing
