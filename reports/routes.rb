@@ -15,3 +15,4 @@ Deployment Work hard in silence, let your success be your noise. Success usually
 Automation Event-driven Architecture Sharding Virtual Machines Pull Request Optimization Message Queue Serverless Scalability Security Content Delivery Network Code Review
 React Cache Invalidation Multi-threading Monitoring A/B Testing Artificial Intelligence Backend Latency Optimization Server Response Message Queue Success is not in what you have, but who you are. Blockchain Parallel Processing
 Predictive Analytics Do what you love and the money will follow. Lambda Functions Edge Computing Logging Message Queue Event-driven Architecture Framework Database Cloud Functions
+To be the best, you must be able to handle the worst. Framework Security Cloud Functions Load Balancing Work hard in silence, let your success be your noise. Machine Learning Python
