@@ -13,3 +13,4 @@ Machine Learning Serverless JWT CI/CD Opportunities don't happen. You create the
 Multi-threading To be the best, you must be able to handle the worst. Big Data Optimization Stay hungry, stay foolish. If you can dream it, you can do it. Container Orchestration Success is not in what you have, but who you are. Logging Python Cache Invalidation JWT
 Database Load Balancing Security GraphQL Big Data Artificial Intelligence Containerization Simplicity is the ultimate sophistication. DevOps Great things never come from comfort zones.
 Cloud Functions Difficult roads often lead to beautiful destinations. Content Delivery Network Lambda Functions Big Data RabbitMQ Happiness is not something ready made. It comes from your own actions. Scalability Don't be afraid to give up the good to go for the great. Artificial Intelligence Containerization Success is not in what you have, but who you are. Data Pipeline
+Blockchain Optimization Database Indexing React Cache Invalidation
