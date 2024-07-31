@@ -8,3 +8,4 @@ Quantum Computing Database Indexing Event Sourcing Scalability Kafka Deployment 
 Edge Computing API Gateway Python Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. API Neural Networks
 Success usually comes to those who are too busy to be looking for it. Cloud Algorithm DevOps Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Kubernetes
 Opportunities don't happen. You create them. Performance Container Orchestration Kubernetes Cloud Functions
+Artificial Intelligence IoT Microservices WebSockets I find that the harder I work, the more luck I seem to have. Distributed Systems Security Success usually comes to those who are too busy to be looking for it. Data Science
