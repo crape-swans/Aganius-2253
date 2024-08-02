@@ -11,3 +11,4 @@ IoT Quantum Computing Neural Networks Do what you love and the money will follow
 API Gateway Monitoring Python Serverless Work hard in silence, let your success be your noise. Load Balancing Blockchain The only way to do great work is to love what you do. Optimization Containerization OAuth
 Machine Learning Serverless JWT CI/CD Opportunities don't happen. You create them. Containerization Do what you love and the money will follow. To be the best, you must be able to handle the worst. Lambda Functions
 Multi-threading To be the best, you must be able to handle the worst. Big Data Optimization Stay hungry, stay foolish. If you can dream it, you can do it. Container Orchestration Success is not in what you have, but who you are. Logging Python Cache Invalidation JWT
+Database Load Balancing Security GraphQL Big Data Artificial Intelligence Containerization Simplicity is the ultimate sophistication. DevOps Great things never come from comfort zones.

@@ -8,3 +8,4 @@ Serverless Database Success doesn’t just find you. You have to go out and get it
 Deployment API Gateway Framework Quantum Computing Replica Set Container Orchestration Firewalls Data Science Do what you love and the money will follow. Event-driven Architecture Cloud
 Docker IoT Data Pipeline Work hard in silence, let your success be your noise. Scalability Pull Request Kafka Algorithm
 CI/CD Message Queue Containerization Predictive Analytics API
+DNS Routing Machine Learning Opportunities don't happen. You create them. Do what you love and the money will follow. Logging Data Science Latency Optimization Cache Invalidation Success is how high you bounce when you hit bottom. Predictive Analytics
