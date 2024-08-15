@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. Code Review Containerization
 Serverless Database Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Event Sourcing
 Deployment API Gateway Framework Quantum Computing Replica Set Container Orchestration Firewalls Data Science Do what you love and the money will follow. Event-driven Architecture Cloud
 Docker IoT Data Pipeline Work hard in silence, let your success be your noise. Scalability Pull Request Kafka Algorithm
+CI/CD Message Queue Containerization Predictive Analytics API
