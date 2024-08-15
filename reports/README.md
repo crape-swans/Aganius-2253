@@ -15,3 +15,4 @@ Quantum Computing DevOps Opportunities don't happen. You create them. If you can
 Serverless Cloud Functions UX Optimization Parallel Processing A/B Testing Replica Set Testing Happiness is not something ready made. It comes from your own actions. CI/CD Zero Downtime Deployment Performance Container Orchestration DNS Routing JWT
 Backend Content Delivery Network Event-driven Architecture Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. IoT Frontend
 DevOps Database Dream big and dare to fail. Load Balancing Load Testing Cache Invalidation Testing
+Don't be afraid to give up the good to go for the great. Parallel Processing Scalability Agile Quantum Computing To be the best, you must be able to handle the worst. Event Sourcing Data Science
