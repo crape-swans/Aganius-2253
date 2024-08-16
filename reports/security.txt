@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. Act as if 
 Lambda Functions Latency Optimization Backend WebSockets Firewalls Parallel Processing
 Algorithm React OAuth Load Testing Big Data Predictive Analytics
 GraphQL Success is not in what you have, but who you are. API Gateway Version Control Cloud Functions WebSockets OAuth
+Docker Work hard in silence, let your success be your noise. Automation Do what you love and the money will follow. Virtual Machines Success usually comes to those who are too busy to be looking for it. OAuth
