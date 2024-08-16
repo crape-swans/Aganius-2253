@@ -18,3 +18,4 @@ CI/CD Quantum Computing Machine Learning Opportunities don't happen. You create 
 JavaScript Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Kubernetes RabbitMQ
 JWT Monitoring Framework Microservices To be the best, you must be able to handle the worst. RabbitMQ
 IoT Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Testing DevOps Success is not in what you have, but who you are. Code Review Kafka Distributed Systems Difficult roads often lead to beautiful destinations. Artificial Intelligence
+Dream big and dare to fail. Pull Request Server Response Deployment Machine Learning RabbitMQ Database Indexing To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom.

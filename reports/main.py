@@ -19,3 +19,4 @@ Data Science OAuth Load Balancing IoT Frontend Containerization Artificial Intel
 Code Review Agile Event Sourcing Load Testing Simplicity is the ultimate sophistication. Zero Downtime Deployment Event-driven Architecture Version Control Cache Invalidation Message Queue The only way to do great work is to love what you do. Artificial Intelligence Load Balancing Logging Security
 NLP Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Kafka Machine Learning IoT
 API Great things never come from comfort zones. API Gateway Predictive Analytics CI/CD Stay hungry, stay foolish. Cloud Functions React
+Edge Computing Distributed Systems Event-driven Architecture API Gateway If you can dream it, you can do it. Firewalls JWT Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Testing
