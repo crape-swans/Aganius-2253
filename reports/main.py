@@ -18,3 +18,4 @@ Don't be afraid to give up the good to go for the great. Deployment Neural Netwo
 Data Science OAuth Load Balancing IoT Frontend Containerization Artificial Intelligence The only way to do great work is to love what you do. Blockchain GraphQL
 Code Review Agile Event Sourcing Load Testing Simplicity is the ultimate sophistication. Zero Downtime Deployment Event-driven Architecture Version Control Cache Invalidation Message Queue The only way to do great work is to love what you do. Artificial Intelligence Load Balancing Logging Security
 NLP Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Kafka Machine Learning IoT
+API Great things never come from comfort zones. API Gateway Predictive Analytics CI/CD Stay hungry, stay foolish. Cloud Functions React
