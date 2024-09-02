@@ -4,3 +4,4 @@ Cache Invalidation Monitoring Simplicity is the ultimate sophistication. Machine
 Cloud Functions Parallel Processing Virtual Machines Kafka DevOps UX Optimization Success usually comes to those who are too busy to be looking for it. NLP Machine Learning A/B Testing Simplicity is the ultimate sophistication. Pull Request Act as if what you do makes a difference. It does. Database Indexing
 DevOps The only way to do great work is to love what you do. Data Science Automation Predictive Analytics Firewalls Monitoring Blockchain Logging Artificial Intelligence API Performance
 Edge Computing Act as if what you do makes a difference. It does. Algorithm Firewalls Big Data Cache Invalidation
+Cloud Functions Deployment RabbitMQ Opportunities don't happen. You create them. Multi-threading The only way to do great work is to love what you do. Data Pipeline Cloud Testing IoT
