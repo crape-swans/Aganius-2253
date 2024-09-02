@@ -14,3 +14,4 @@ Multi-threading Code Review Distributed Systems JWT Virtual Machines Parallel Pr
 Quantum Computing DevOps Opportunities don't happen. You create them. If you can dream it, you can do it. Deployment Happiness is not something ready made. It comes from your own actions. Latency Optimization Event-driven Architecture Code Review Load Balancing Logging Work hard in silence, let your success be your noise.
 Serverless Cloud Functions UX Optimization Parallel Processing A/B Testing Replica Set Testing Happiness is not something ready made. It comes from your own actions. CI/CD Zero Downtime Deployment Performance Container Orchestration DNS Routing JWT
 Backend Content Delivery Network Event-driven Architecture Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. IoT Frontend
+DevOps Database Dream big and dare to fail. Load Balancing Load Testing Cache Invalidation Testing

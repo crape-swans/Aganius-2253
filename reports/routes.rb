@@ -13,3 +13,4 @@ I find that the harder I work, the more luck I seem to have. API Gateway Cloud S
 Algorithm React Cache Invalidation Lambda Functions Happiness is not something ready made. It comes from your own actions. Replica Set WebSockets Performance
 Deployment Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Logging Edge Computing Cache Invalidation A/B Testing IoT Opportunities don't happen. You create them.
 Automation Event-driven Architecture Sharding Virtual Machines Pull Request Optimization Message Queue Serverless Scalability Security Content Delivery Network Code Review
+React Cache Invalidation Multi-threading Monitoring A/B Testing Artificial Intelligence Backend Latency Optimization Server Response Message Queue Success is not in what you have, but who you are. Blockchain Parallel Processing
