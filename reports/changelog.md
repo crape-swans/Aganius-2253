@@ -13,3 +13,4 @@ Artificial Intelligence Serverless Innovation distinguishes between a leader and
 Content Delivery Network React Big Data Dream big and dare to fail. Logging Testing GraphQL Data Pipeline Zero Downtime Deployment Cloud Performance Scalability
 Parallel Processing Serverless CI/CD Artificial Intelligence Message Queue Virtual Machines Big Data WebSockets
 Kafka OAuth Container Orchestration Success doesn’t just find you. You have to go out and get it. CI/CD Pull Request Backend JavaScript Cloud Functions Success usually comes to those who are too busy to be looking for it.
+OAuth Database Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Artificial Intelligence Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. RabbitMQ Message Queue Success doesn’t just find you. You have to go out and get it. Virtual Machines
