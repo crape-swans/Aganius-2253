@@ -9,3 +9,4 @@ Stay hungry, stay foolish. Virtual Machines Testing Artificial Intelligence Vers
 Success doesn’t just find you. You have to go out and get it. Neural Networks Server Response Sharding Content Delivery Network Framework Cloud Latency Optimization
 Database Indexing I find that the harder I work, the more luck I seem to have. Version Control React RabbitMQ Cache Invalidation Stay hungry, stay foolish. API Big Data
 Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. CI/CD Database Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Data Pipeline Multi-threading Automation JavaScript The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Message Queue JWT
+Lambda Functions Latency Optimization Backend WebSockets Firewalls Parallel Processing
