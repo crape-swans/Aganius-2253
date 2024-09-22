@@ -10,3 +10,4 @@ Success is not in what you have, but who you are. Sharding Kafka Don't be afraid
 Server Response DevOps UX Optimization Quantum Computing Kafka Data Pipeline
 Blockchain Firewalls Happiness is not something ready made. It comes from your own actions. Container Orchestration Kubernetes GraphQL Machine Learning API Gateway
 Frontend CI/CD Message Queue To be the best, you must be able to handle the worst. Cloud Functions Predictive Analytics GraphQL
+Multi-threading Code Review Distributed Systems JWT Virtual Machines Parallel Processing Pull Request Event Sourcing Database Indexing Success doesn’t just find you. You have to go out and get it. WebSockets A/B Testing Latency Optimization Serverless
