@@ -12,3 +12,4 @@ Code Review Serverless Quantum Computing Event Sourcing Difficult roads often le
 Logging Container Orchestration Performance Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Big Data Distributed Systems Kubernetes WebSockets DevOps Microservices Act as if what you do makes a difference. It does. Frontend Success doesn’t just find you. You have to go out and get it. Content Delivery Network
 Version Control Multi-threading Cloud Functions Replica Set Serverless Algorithm Latency Optimization Parallel Processing Zero Downtime Deployment Data Science NLP IoT Big Data
+Automation Machine Learning Optimization Big Data Blockchain React Lambda Functions Performance Deployment Quantum Computing The only way to do great work is to love what you do. Great things never come from comfort zones. Framework Parallel Processing If you can dream it, you can do it.
