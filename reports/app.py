@@ -9,3 +9,4 @@ Event-driven Architecture Success usually comes to those who are too busy to be 
 Happiness is not something ready made. It comes from your own actions. React Quantum Computing Performance UX Optimization Security
 Predictive Analytics Database CI/CD WebSockets Scalability Automation Success doesn’t just find you. You have to go out and get it. Cache Invalidation DNS Routing JavaScript Docker RabbitMQ Simplicity is the ultimate sophistication. Multi-threading Logging
 Algorithm Pull Request Cloud Functions Sharding Security Parallel Processing RabbitMQ WebSockets
+Agile Cache Invalidation Framework Success doesn’t just find you. You have to go out and get it. Kafka Act as if what you do makes a difference. It does. WebSockets Pull Request Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Database Indexing Predictive Analytics Success usually comes to those who are too busy to be looking for it.
