@@ -8,3 +8,4 @@ API Gateway Backend Stay hungry, stay foolish. Data Science Zero Downtime Deploy
 Security Great things never come from comfort zones. Microservices Work hard in silence, let your success be your noise. Scalability Python
 Server Response Security Parallel Processing WebSockets API Gateway Innovation distinguishes between a leader and a follower. Lambda Functions Kafka
 IoT Quantum Computing Neural Networks Do what you love and the money will follow. Event-driven Architecture Edge Computing Machine Learning Database Indexing CI/CD
+API Gateway Monitoring Python Serverless Work hard in silence, let your success be your noise. Load Balancing Blockchain The only way to do great work is to love what you do. Optimization Containerization OAuth
