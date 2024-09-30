@@ -9,3 +9,4 @@ Neural Networks API Quantum Computing GraphQL NLP Act as if what you do makes a 
 Success is not in what you have, but who you are. Sharding Kafka Don't be afraid to give up the good to go for the great. Containerization Dream big and dare to fail. Event-driven Architecture Virtual Machines Stay hungry, stay foolish. OAuth
 Server Response DevOps UX Optimization Quantum Computing Kafka Data Pipeline
 Blockchain Firewalls Happiness is not something ready made. It comes from your own actions. Container Orchestration Kubernetes GraphQL Machine Learning API Gateway
+Frontend CI/CD Message Queue To be the best, you must be able to handle the worst. Cloud Functions Predictive Analytics GraphQL
