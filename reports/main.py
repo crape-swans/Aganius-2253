@@ -11,3 +11,4 @@ Kubernetes Firewalls The only way to do great work is to love what you do. DNS R
 Code Review Serverless Quantum Computing Event Sourcing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Parallel Processing Zero Downtime Deployment
 Logging Container Orchestration Performance Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 Big Data Distributed Systems Kubernetes WebSockets DevOps Microservices Act as if what you do makes a difference. It does. Frontend Success doesn’t just find you. You have to go out and get it. Content Delivery Network
+Version Control Multi-threading Cloud Functions Replica Set Serverless Algorithm Latency Optimization Parallel Processing Zero Downtime Deployment Data Science NLP IoT Big Data

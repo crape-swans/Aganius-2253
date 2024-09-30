@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Container Orchestration Vi
 API Gateway Python Docker Load Balancing Stay hungry, stay foolish. Event-driven Architecture Backend Great things never come from comfort zones. Container Orchestration Version Control
 Code Review Monitoring Great things never come from comfort zones. DevOps Virtual Machines
 Algorithm Backend Python The only way to do great work is to love what you do. Pull Request
+Success is not in what you have, but who you are. Event Sourcing Artificial Intelligence Message Queue Container Orchestration Sharding Database Indexing NLP Automation Stay hungry, stay foolish. Docker WebSockets Zero Downtime Deployment Edge Computing
