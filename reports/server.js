@@ -4,3 +4,4 @@ Load Balancing Agile Success doesn’t just find you. You have to go out and get i
 Performance Data Pipeline Database Indexing Backend To be the best, you must be able to handle the worst. Scalability Quantum Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. Microservices Agile
 Success is not in what you have, but who you are. JWT Kubernetes IoT Do what you love and the money will follow. OAuth
 Load Balancing Microservices Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. RabbitMQ Data Pipeline
+Quantum Computing Database Indexing Event Sourcing Scalability Kafka Deployment Replica Set CI/CD Optimization OAuth Automation Algorithm Testing Serverless Great things never come from comfort zones.
