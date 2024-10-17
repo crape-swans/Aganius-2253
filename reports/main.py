@@ -10,3 +10,4 @@ GraphQL Docker Deployment Server Response Replica Set DNS Routing DevOps I find 
 Kubernetes Firewalls The only way to do great work is to love what you do. DNS Routing Neural Networks Cloud Frontend Success usually comes to those who are too busy to be looking for it.
 Code Review Serverless Quantum Computing Event Sourcing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Parallel Processing Zero Downtime Deployment
 Logging Container Orchestration Performance Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
+Big Data Distributed Systems Kubernetes WebSockets DevOps Microservices Act as if what you do makes a difference. It does. Frontend Success doesn’t just find you. You have to go out and get it. Content Delivery Network

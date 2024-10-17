@@ -10,3 +10,4 @@ Scalability Cache Invalidation Server Response Innovation distinguishes between 
 Latency Optimization RabbitMQ Scalability JavaScript NLP Machine Learning IoT React Testing Lambda Functions
 GraphQL Neural Networks If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Latency Optimization Multi-threading
 Artificial Intelligence Serverless Innovation distinguishes between a leader and a follower. Container Orchestration Automation
+Content Delivery Network React Big Data Dream big and dare to fail. Logging Testing GraphQL Data Pipeline Zero Downtime Deployment Cloud Performance Scalability
