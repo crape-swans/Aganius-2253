@@ -11,3 +11,4 @@ Optimization Database Indexing Work hard in silence, let your success be your no
 Data Science Difficult roads often lead to beautiful destinations. Monitoring Version Control API Performance
 JavaScript Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. DNS Routing Algorithm The only way to do great work is to love what you do. API Gateway Machine Learning Cloud Functions Optimization Scalability GraphQL DevOps Data Science
 Firewalls Zero Downtime Deployment Event Sourcing Cache Invalidation Data Science Do what you love and the money will follow. Event-driven Architecture IoT DNS Routing Machine Learning Container Orchestration Load Balancing
+Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Backend Data Pipeline Load Balancing
