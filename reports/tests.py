@@ -7,3 +7,4 @@ Virtual Machines Data Science Python Algorithm Neural Networks Event Sourcing Qu
 API Gateway Backend Stay hungry, stay foolish. Data Science Zero Downtime Deployment Python Kubernetes Deployment Code Review Replica Set Blockchain UX Optimization Monitoring Algorithm
 Security Great things never come from comfort zones. Microservices Work hard in silence, let your success be your noise. Scalability Python
 Server Response Security Parallel Processing WebSockets API Gateway Innovation distinguishes between a leader and a follower. Lambda Functions Kafka
+IoT Quantum Computing Neural Networks Do what you love and the money will follow. Event-driven Architecture Edge Computing Machine Learning Database Indexing CI/CD
