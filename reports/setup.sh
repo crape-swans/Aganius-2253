@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Agile Success is ho
 Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Do what you love and the money will follow. Database Security
 Success is how high you bounce when you hit bottom. Code Review Containerization DevOps Multi-threading
 Serverless Database Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Event Sourcing
+Deployment API Gateway Framework Quantum Computing Replica Set Container Orchestration Firewalls Data Science Do what you love and the money will follow. Event-driven Architecture Cloud
