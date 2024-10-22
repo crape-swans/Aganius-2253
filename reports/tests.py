@@ -6,3 +6,4 @@ React Sharding Load Balancing Backend Cache Invalidation NLP Big Data DNS Routin
 Virtual Machines Data Science Python Algorithm Neural Networks Event Sourcing Quantum Computing Difficult roads often lead to beautiful destinations. Backend I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
 API Gateway Backend Stay hungry, stay foolish. Data Science Zero Downtime Deployment Python Kubernetes Deployment Code Review Replica Set Blockchain UX Optimization Monitoring Algorithm
 Security Great things never come from comfort zones. Microservices Work hard in silence, let your success be your noise. Scalability Python
+Server Response Security Parallel Processing WebSockets API Gateway Innovation distinguishes between a leader and a follower. Lambda Functions Kafka
