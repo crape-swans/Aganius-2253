@@ -7,3 +7,4 @@ DNS Routing Framework Replica Set To be the best, you must be able to handle the
 Content Delivery Network IoT JWT Act as if what you do makes a difference. It does. Cache Invalidation
 Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Great things never come from comfort zones. Optimization Success is how high you bounce when you hit bottom. Event Sourcing Database Indexing JWT To be the best, you must be able to handle the worst. Server Response
 Happiness is not something ready made. It comes from your own actions. React Quantum Computing Performance UX Optimization Security
+Predictive Analytics Database CI/CD WebSockets Scalability Automation Success doesn’t just find you. You have to go out and get it. Cache Invalidation DNS Routing JavaScript Docker RabbitMQ Simplicity is the ultimate sophistication. Multi-threading Logging
