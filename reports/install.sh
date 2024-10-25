@@ -9,3 +9,4 @@ Data Science Do what you love and the money will follow. Latency Optimization Co
 Happiness is not something ready made. It comes from your own actions. Edge Computing Predictive Analytics Testing Database Indexing
 Message Queue GraphQL Microservices Automation Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Cloud Functions IoT The only way to do great work is to love what you do. Do what you love and the money will follow. WebSockets
 Python OAuth Backend GraphQL Act as if what you do makes a difference. It does. Containerization JavaScript Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Performance Kubernetes Load Balancing Quantum Computing Serverless
+Pull Request Success is how high you bounce when you hit bottom. WebSockets Predictive Analytics Message Queue DNS Routing
