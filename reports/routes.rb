@@ -9,3 +9,4 @@ Logging Happiness is not something ready made. It comes from your own actions. W
 Sharding Microservices UX Optimization Backend Don't be afraid to give up the good to go for the great. Agile
 Version Control Simplicity is the ultimate sophistication. Serverless Cloud Functions Agile UX Optimization Scalability Success doesn’t just find you. You have to go out and get it. Latency Optimization React Database OAuth Firewalls
 Container Orchestration Simplicity is the ultimate sophistication. Firewalls Docker Act as if what you do makes a difference. It does. Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Event-driven Architecture React Neural Networks
+I find that the harder I work, the more luck I seem to have. API Gateway Cloud Success usually comes to those who are too busy to be looking for it. Algorithm To be the best, you must be able to handle the worst. Performance
