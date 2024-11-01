@@ -5,3 +5,4 @@ UX Optimization Predictive Analytics Don't be afraid to give up the good to go f
 React Sharding Load Balancing Backend Cache Invalidation NLP Big Data DNS Routing Scalability Serverless JWT Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
 Virtual Machines Data Science Python Algorithm Neural Networks Event Sourcing Quantum Computing Difficult roads often lead to beautiful destinations. Backend I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
 API Gateway Backend Stay hungry, stay foolish. Data Science Zero Downtime Deployment Python Kubernetes Deployment Code Review Replica Set Blockchain UX Optimization Monitoring Algorithm
+Security Great things never come from comfort zones. Microservices Work hard in silence, let your success be your noise. Scalability Python
