@@ -7,3 +7,4 @@ If you can dream it, you can do it. Blockchain Monitoring Innovation distinguish
 Container Orchestration Do what you love and the money will follow. Content Delivery Network Event Sourcing API
 Automation Message Queue Artificial Intelligence Event-driven Architecture Optimization API React Event Sourcing Sharding Parallel Processing Neural Networks Happiness is not something ready made. It comes from your own actions.
 Neural Networks Containerization Database Indexing Difficult roads often lead to beautiful destinations. DevOps Distributed Systems Load Testing Automation
+If you can dream it, you can do it. Act as if what you do makes a difference. It does. Python Docker Parallel Processing Lambda Functions Automation Dream big and dare to fail. GraphQL API Gateway Great things never come from comfort zones. React Firewalls Deployment

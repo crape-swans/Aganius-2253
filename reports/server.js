@@ -2,3 +2,4 @@ Predictive Analytics React Difficult roads often lead to beautiful destinations.
 GraphQL Event-driven Architecture I find that the harder I work, the more luck I seem to have. A/B Testing Container Orchestration Success is not in what you have, but who you are. Code Review Logging DNS Routing OAuth
 Load Balancing Agile Success doesn’t just find you. You have to go out and get it. Load Testing Algorithm JavaScript Logging Backend Server Response Opportunities don't happen. You create them.
 Performance Data Pipeline Database Indexing Backend To be the best, you must be able to handle the worst. Scalability Quantum Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. Microservices Agile
+Success is not in what you have, but who you are. JWT Kubernetes IoT Do what you love and the money will follow. OAuth
