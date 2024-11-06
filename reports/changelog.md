@@ -7,3 +7,4 @@ React Latency Optimization Python Quantum Computing Firewalls Neural Networks Bi
 Predictive Analytics I find that the harder I work, the more luck I seem to have. Performance If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Lambda Functions React API Opportunities don't happen. You create them. Kafka Zero Downtime Deployment
 UX Optimization If you can dream it, you can do it. Monitoring Parallel Processing Zero Downtime Deployment Multi-threading
 Scalability Cache Invalidation Server Response Innovation distinguishes between a leader and a follower. Serverless Parallel Processing Don't be afraid to give up the good to go for the great. Edge Computing Python
+Latency Optimization RabbitMQ Scalability JavaScript NLP Machine Learning IoT React Testing Lambda Functions
