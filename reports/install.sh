@@ -6,3 +6,4 @@ GraphQL Innovation distinguishes between a leader and a follower. Optimization R
 Optimization Monitoring Deployment Do what you love and the money will follow. Database A/B Testing Testing Load Balancing Security Parallel Processing NLP
 Deployment Optimization Success usually comes to those who are too busy to be looking for it. Performance API Gateway Framework API Security Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Machine Learning Blockchain Distributed Systems
 Data Science Do what you love and the money will follow. Latency Optimization Code Review Database Indexing Success usually comes to those who are too busy to be looking for it. Containerization Replica Set Data Pipeline Cloud Load Testing Content Delivery Network Zero Downtime Deployment
+Happiness is not something ready made. It comes from your own actions. Edge Computing Predictive Analytics Testing Database Indexing

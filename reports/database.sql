@@ -9,3 +9,4 @@ Framework RabbitMQ Blockchain Docker Testing Big Data Do what you love and the m
 Multi-threading Agile CI/CD If you can dream it, you can do it. OAuth
 Optimization Database Indexing Work hard in silence, let your success be your noise. Monitoring Kubernetes Success is how high you bounce when you hit bottom. Data Science DNS Routing
 Data Science Difficult roads often lead to beautiful destinations. Monitoring Version Control API Performance
+JavaScript Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. DNS Routing Algorithm The only way to do great work is to love what you do. API Gateway Machine Learning Cloud Functions Optimization Scalability GraphQL DevOps Data Science
