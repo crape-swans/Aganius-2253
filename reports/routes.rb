@@ -6,3 +6,4 @@ Stay hungry, stay foolish. I find that the harder I work, the more luck I seem t
 Lambda Functions DNS Routing Content Delivery Network Optimization Machine Learning Big Data Python The only way to do great work is to love what you do. Cloud Serverless Kafka
 Success is how high you bounce when you hit bottom. Database The only way to do great work is to love what you do. API Gateway Python Difficult roads often lead to beautiful destinations. React Quantum Computing Monitoring Event-driven Architecture GraphQL
 Logging Happiness is not something ready made. It comes from your own actions. WebSockets A/B Testing Version Control Innovation distinguishes between a leader and a follower.
+Sharding Microservices UX Optimization Backend Don't be afraid to give up the good to go for the great. Agile
