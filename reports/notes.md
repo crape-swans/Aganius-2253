@@ -6,3 +6,4 @@ Serverless API Gateway Success doesn’t just find you. You have to go out and get
 If you can dream it, you can do it. Blockchain Monitoring Innovation distinguishes between a leader and a follower. CI/CD Content Delivery Network Parallel Processing Containerization Logging React Pull Request
 Container Orchestration Do what you love and the money will follow. Content Delivery Network Event Sourcing API
 Automation Message Queue Artificial Intelligence Event-driven Architecture Optimization API React Event Sourcing Sharding Parallel Processing Neural Networks Happiness is not something ready made. It comes from your own actions.
+Neural Networks Containerization Database Indexing Difficult roads often lead to beautiful destinations. DevOps Distributed Systems Load Testing Automation
