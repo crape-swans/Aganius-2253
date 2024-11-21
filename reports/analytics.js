@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Machine Learning Event
 Backend Database Opportunities don't happen. You create them. Frontend Logging DevOps
 Data Pipeline Sharding Cache Invalidation Database Indexing Content Delivery Network Data Science Innovation distinguishes between a leader and a follower. Frontend Stay hungry, stay foolish. Version Control JWT Success is not in what you have, but who you are. The only way to do great work is to love what you do.
 UX Optimization Database Indexing Stay hungry, stay foolish. Opportunities don't happen. You create them. Server Response
+Data Pipeline Quantum Computing Success is how high you bounce when you hit bottom. Parallel Processing Lambda Functions Cache Invalidation A/B Testing Event Sourcing Simplicity is the ultimate sophistication. UX Optimization
