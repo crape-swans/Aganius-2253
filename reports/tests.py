@@ -4,3 +4,4 @@ Microservices Agile Sharding Lambda Functions React Artificial Intelligence Mult
 UX Optimization Predictive Analytics Don't be afraid to give up the good to go for the great. Event Sourcing Data Pipeline Database Indexing Artificial Intelligence Data Science
 React Sharding Load Balancing Backend Cache Invalidation NLP Big Data DNS Routing Scalability Serverless JWT Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
 Virtual Machines Data Science Python Algorithm Neural Networks Event Sourcing Quantum Computing Difficult roads often lead to beautiful destinations. Backend I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
+API Gateway Backend Stay hungry, stay foolish. Data Science Zero Downtime Deployment Python Kubernetes Deployment Code Review Replica Set Blockchain UX Optimization Monitoring Algorithm
