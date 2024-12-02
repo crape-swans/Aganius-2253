@@ -2,3 +2,4 @@ Opportunities don't happen. You create them. Frontend Event Sourcing Cloud Messa
 Neural Networks Stay hungry, stay foolish. Database Logging Version Control Database Indexing Cloud Pull Request Algorithm Quantum Computing React A/B Testing OAuth Parallel Processing Containerization
 Microservices Agile Sharding Lambda Functions React Artificial Intelligence Multi-threading Virtual Machines Monitoring API Gateway Data Science Containerization Happiness is not something ready made. It comes from your own actions. Replica Set API
 UX Optimization Predictive Analytics Don't be afraid to give up the good to go for the great. Event Sourcing Data Pipeline Database Indexing Artificial Intelligence Data Science
+React Sharding Load Balancing Backend Cache Invalidation NLP Big Data DNS Routing Scalability Serverless JWT Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
