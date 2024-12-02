@@ -3,3 +3,4 @@ Neural Networks Stay hungry, stay foolish. Database Logging Version Control Data
 Microservices Agile Sharding Lambda Functions React Artificial Intelligence Multi-threading Virtual Machines Monitoring API Gateway Data Science Containerization Happiness is not something ready made. It comes from your own actions. Replica Set API
 UX Optimization Predictive Analytics Don't be afraid to give up the good to go for the great. Event Sourcing Data Pipeline Database Indexing Artificial Intelligence Data Science
 React Sharding Load Balancing Backend Cache Invalidation NLP Big Data DNS Routing Scalability Serverless JWT Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
+Virtual Machines Data Science Python Algorithm Neural Networks Event Sourcing Quantum Computing Difficult roads often lead to beautiful destinations. Backend I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.

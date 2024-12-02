@@ -4,3 +4,4 @@ Simplicity is the ultimate sophistication. Database Machine Learning Neural Netw
 Stay hungry, stay foolish. Replica Set Quantum Computing NLP Simplicity is the ultimate sophistication. Blockchain Algorithm Neural Networks
 Innovation distinguishes between a leader and a follower. Machine Learning Event Sourcing Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Python Database Indexing Multi-threading Cloud Serverless
 Backend Database Opportunities don't happen. You create them. Frontend Logging DevOps
+Data Pipeline Sharding Cache Invalidation Database Indexing Content Delivery Network Data Science Innovation distinguishes between a leader and a follower. Frontend Stay hungry, stay foolish. Version Control JWT Success is not in what you have, but who you are. The only way to do great work is to love what you do.
