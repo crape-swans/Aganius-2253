@@ -3,3 +3,4 @@ A/B Testing Version Control Don't be afraid to give up the good to go for the gr
 Quantum Computing UX Optimization Python JavaScript Great things never come from comfort zones. Docker
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Event Sourcing Kafka NLP Cloud Functions A/B Testing Event-driven Architecture Quantum Computing Dream big and dare to fail.
 Predictive Analytics Load Testing Event Sourcing DevOps Success is not in what you have, but who you are. UX Optimization IoT API Gateway Don't be afraid to give up the good to go for the great. Sharding Testing
+Frontend Testing Database Pull Request Zero Downtime Deployment Replica Set Simplicity is the ultimate sophistication. React Serverless Do what you love and the money will follow. Containerization

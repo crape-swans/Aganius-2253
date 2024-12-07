@@ -5,3 +5,4 @@ Do what you love and the money will follow. Happiness is not something ready mad
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Data Science Replica Set Agile Predictive Analytics Security Containerization Multi-threading JavaScript Act as if what you do makes a difference. It does. Cloud Functions Blockchain
 Lambda Functions DNS Routing Content Delivery Network Optimization Machine Learning Big Data Python The only way to do great work is to love what you do. Cloud Serverless Kafka
 Success is how high you bounce when you hit bottom. Database The only way to do great work is to love what you do. API Gateway Python Difficult roads often lead to beautiful destinations. React Quantum Computing Monitoring Event-driven Architecture GraphQL
+Logging Happiness is not something ready made. It comes from your own actions. WebSockets A/B Testing Version Control Innovation distinguishes between a leader and a follower.
