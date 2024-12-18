@@ -3,3 +3,4 @@ Great things never come from comfort zones. Container Orchestration Latency Opti
 UX Optimization Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Do what you love and the money will follow. Database Cloud Functions
 Parallel Processing Frontend Kafka Content Delivery Network Success is not in what you have, but who you are. Container Orchestration Security Event Sourcing Server Response Agile
 Scalability Cloud Security Innovation distinguishes between a leader and a follower. Cloud Functions Machine Learning DevOps
+IoT Don't be afraid to give up the good to go for the great. Cloud If you can dream it, you can do it. Blockchain Server Response To be the best, you must be able to handle the worst. Artificial Intelligence Big Data Docker API Innovation distinguishes between a leader and a follower. Data Pipeline Firewalls
