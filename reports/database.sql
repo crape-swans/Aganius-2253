@@ -4,3 +4,4 @@ Event Sourcing Event-driven Architecture Algorithm If you can dream it, you can 
 Deployment Python Stay hungry, stay foolish. NLP React Replica Set If you can dream it, you can do it. Multi-threading Don't be afraid to give up the good to go for the great.
 API Gateway Blockchain To be the best, you must be able to handle the worst. API Innovation distinguishes between a leader and a follower.
 Artificial Intelligence Lambda Functions Logging Edge Computing Agile To be the best, you must be able to handle the worst. Pull Request NLP Kafka Cloud Big Data Success is not in what you have, but who you are.
+Kubernetes JavaScript Message Queue Do what you love and the money will follow. Framework Replica Set

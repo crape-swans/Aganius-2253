@@ -2,3 +2,4 @@ Event-driven Architecture Load Balancing Sharding Security Server Response Algor
 Success is how high you bounce when you hit bottom. Content Delivery Network Simplicity is the ultimate sophistication. JWT Logging Event Sourcing
 Big Data IoT Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Parallel Processing Sharding Success doesn’t just find you. You have to go out and get it. Content Delivery Network Microservices The only way to do great work is to love what you do. Message Queue Machine Learning Server Response Predictive Analytics
 API Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Frontend Predictive Analytics Scalability Simplicity is the ultimate sophistication. IoT GraphQL
+Serverless API Gateway Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Edge Computing UX Optimization
