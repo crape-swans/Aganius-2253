@@ -2,3 +2,4 @@ Backend Act as if what you do makes a difference. It does. Success is not in wha
 A/B Testing Version Control Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Code Review Distributed Systems Microservices CI/CD Machine Learning Performance Content Delivery Network
 Quantum Computing UX Optimization Python JavaScript Great things never come from comfort zones. Docker
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Event Sourcing Kafka NLP Cloud Functions A/B Testing Event-driven Architecture Quantum Computing Dream big and dare to fail.
+Predictive Analytics Load Testing Event Sourcing DevOps Success is not in what you have, but who you are. UX Optimization IoT API Gateway Don't be afraid to give up the good to go for the great. Sharding Testing
