@@ -1,2 +1,3 @@
 Opportunities don't happen. You create them. Frontend Event Sourcing Cloud Message Queue Deployment Success usually comes to those who are too busy to be looking for it. Big Data Performance Code Review
 Neural Networks Stay hungry, stay foolish. Database Logging Version Control Database Indexing Cloud Pull Request Algorithm Quantum Computing React A/B Testing OAuth Parallel Processing Containerization
+Microservices Agile Sharding Lambda Functions React Artificial Intelligence Multi-threading Virtual Machines Monitoring API Gateway Data Science Containerization Happiness is not something ready made. It comes from your own actions. Replica Set API
