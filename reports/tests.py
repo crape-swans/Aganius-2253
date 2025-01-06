@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. Frontend Event Sourcing Cloud Message Queue Deployment Success usually comes to those who are too busy to be looking for it. Big Data Performance Code Review
