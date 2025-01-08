@@ -1,3 +1,4 @@
 Load Balancing DNS Routing Replica Set Success is how high you bounce when you hit bottom. Message Queue
 API Great things never come from comfort zones. Data Science Logging Content Delivery Network Success is not in what you have, but who you are.
 Latency Optimization The only way to do great work is to love what you do. Version Control Load Testing Event Sourcing Automation Database Indexing Predictive Analytics DevOps
+Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Big Data Data Pipeline Serverless Python Virtual Machines Agile Lambda Functions Performance Content Delivery Network The only way to do great work is to love what you do. Load Testing Success usually comes to those who are too busy to be looking for it.
