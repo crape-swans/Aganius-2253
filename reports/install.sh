@@ -1,2 +1,3 @@
 DevOps CI/CD Parallel Processing Testing Algorithm Distributed Systems Stay hungry, stay foolish. Cache Invalidation Container Orchestration Lambda Functions Load Testing Version Control Success is how high you bounce when you hit bottom. Monitoring Message Queue
 RabbitMQ NLP Framework Content Delivery Network Artificial Intelligence UX Optimization Don't be afraid to give up the good to go for the great. Sharding API Gateway Container Orchestration
+Performance Frontend Algorithm Logging Success doesn’t just find you. You have to go out and get it. Kubernetes CI/CD Docker Code Review Version Control React Machine Learning Multi-threading Scalability Do what you love and the money will follow.
