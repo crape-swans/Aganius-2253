@@ -1,1 +1,2 @@
 DevOps CI/CD Parallel Processing Testing Algorithm Distributed Systems Stay hungry, stay foolish. Cache Invalidation Container Orchestration Lambda Functions Load Testing Version Control Success is how high you bounce when you hit bottom. Monitoring Message Queue
+RabbitMQ NLP Framework Content Delivery Network Artificial Intelligence UX Optimization Don't be afraid to give up the good to go for the great. Sharding API Gateway Container Orchestration
