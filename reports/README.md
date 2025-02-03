@@ -1,1 +1,2 @@
 Backend Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. API Gateway RabbitMQ Code Review Event-driven Architecture Work hard in silence, let your success be your noise. DNS Routing Version Control Lambda Functions A/B Testing NLP
+A/B Testing Version Control Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Code Review Distributed Systems Microservices CI/CD Machine Learning Performance Content Delivery Network
