@@ -1,0 +1,1 @@
+Event-driven Architecture Load Balancing Sharding Security Server Response Algorithm Frontend Dream big and dare to fail. DevOps Parallel Processing Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Code Review Lambda Functions
